@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20091
-Fork on GitHub
-6074
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">a passionate about games, stories and experiences. im from Medellín, Colombia.</h3>
 
