@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Santiago Londoño and I'm a Game developer from Medellín, Colombia</h2>
+<h2 align="left">Hi 👋! My name is Santiago Londoño and I'm a developer from Medellín, Colombia</h2>
 
 ###
 
